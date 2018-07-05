@@ -1,0 +1,44 @@
+Id,Region,name,Item,Units,Unit Cost,Total
+44,East,Jones,Pencil,95,1.99,189.05
+45,Central,Kivell,Binder,50,19.99,999.5
+46,Central,Jardine,Pencil,36,4.99,179.64
+47,Central,Gill,Pen,27,19.99,539.73
+48,West,Sorvino,Pencil,56,2.99,167.44
+49,East,Jones,Binder,60,4.99,299.4
+50,Central,Andrews,Pencil,75,1.99,149.25
+51,Central,Jardine,Pencil,90,4.99,449.1
+52,West,Thompson,Pencil,32,1.99,63.68
+53,East,Jones,Binder,60,8.99,539.4
+54,Central,Morgan,Pencil,90,4.99,449.1
+55,East,Howard,Binder,29,1.99,57.71
+56,East,Parent,Binder,81,19.99,1619.19
+57,East,Jones,Pencil,35,4.99,174.65
+58,Central,Smith,Desk,2,125,250
+59,East,Jones,Pen Set,16,15.99,255.84
+60,Central,Morgan,Binder,28,8.99,251.72
+61,East,Jones,Pen,64,8.99,575.36
+62,East,Parent,Pen,15,19.99,299.85
+63,Central,Kivell,Pen Set,96,4.99,479.04
+64,Central,Smith,Pencil,67,1.29,86.43
+65,East,Parent,Pen Set,74,15.99,1183.26
+66,Central,Gill,Binder,46,8.99,413.54
+67,Central,Smith,Binder,87,15,1305
+68,East,Jones,Binder,4,4.99,19.96
+69,West,Sorvino,Binder,7,19.99,139.93
+70,Central,Jardine,Pen Set,50,4.99,249.5
+71,Central,Andrews,Pencil,66,1.99,131.34
+72,East,Howard,Pen,96,4.99,479.04
+73,Central,Gill,Pencil,53,1.29,68.37
+74,Central,Gill,Binder,80,8.99,719.2
+75,Central,Kivell,Desk,5,125,625
+76,East,Jones,Pen Set,62,4.99,309.38
+77,Central,Morgan,Pen Set,55,12.49,686.95
+78,Central,Kivell,Pen Set,42,23.95,1005.9
+79,West,Sorvino,Desk,3,275,825
+80,Central,Gill,Pencil,7,1.29,9.03
+81,West,Sorvino,Pen,76,1.99,151.24
+82,West,Thompson,Binder,57,19.99,1139.43
+83,Central,Andrews,Pencil,14,1.29,18.06
+84,Central,Jardine,Binder,11,4.99,54.89
+85,Central,Jardine,Binder,94,19.99,1879.06
+86,Central,Andrews,Binder,28,4.99,139.72
